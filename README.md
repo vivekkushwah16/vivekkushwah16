@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on improving MERN Stack project authentication.<br><br>🌱 Learning advanced React patterns and exploring serverless architecture.<br><br>👯 Open to collaborating on MERN Stack or innovative web app projects.<br><br>🤔 Seeking help with optimizing MongoDB backend performance.<br><br>💬 Ask me about React state management or designing RESTful APIs.<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: Built a chat app using MERN Stack, now used by a tech community!
+🔭 Working on improving MERN Stack project authentication.<br>🌱 Learning advanced React patterns and exploring serverless architecture.<br>👯 Open to collaborating on MERN Stack or innovative web app projects.<br>🤔 Seeking help with optimizing MongoDB backend performance.<br>💬 Ask me about React state management or designing RESTful APIs.<br>😄 Pronouns: he/him<br>⚡ Fun fact: Built a chat app using MERN Stack, now used by a tech community!
 
 
 ## 🌐 Socials:
